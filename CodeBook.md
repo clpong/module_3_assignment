@@ -1,6 +1,6 @@
 This file consists of description about the variables and other information used in the script **run_analysis.R**   
 
-<span style="color: green"> ### Background information </span>
+ ### <span style="color: green"> Background information </span>
 
 Reading the background information about the course project helps. It can be obtained [here](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones)
 
