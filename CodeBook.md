@@ -1,10 +1,10 @@
 This file consists of description about the variables and other information used in the script **run_analysis.R**   
 
- <font color="green"> ### Background information </font>
+#### Background information
 
 Reading the background information about the course project helps. It can be obtained [here](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones)
 
-### Data Source
+#### Data Source
 
 The dataset for this project can be download [here](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip)
 
